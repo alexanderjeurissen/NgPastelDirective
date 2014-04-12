@@ -1,0 +1,15 @@
+.tmp
+bower_components
+*.tern.project
+
+# Webstorm files
+.idea/*
+
+# vim files
+*.swp
+*.swo
+.vimrc
+
+# apple temp files
+.DS_Store
+/~
